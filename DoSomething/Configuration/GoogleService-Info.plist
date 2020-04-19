@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>388547301576-v897pdaaomckjivlsnp187tititjbi93.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.388547301576-v897pdaaomckjivlsnp187tititjbi93</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRm9VxK2vUNvgGST21nWzcBACq0Ie1ILc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>388547301576</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.SaSApps.DoSomething</string>
+	<key>PROJECT_ID</key>
+	<string>do-something-ab1ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>do-something-ab1ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:388547301576:ios:a98f4ad5fe3a52a04155fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://do-something-ab1ad.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-1135958579537389~8624856362</string>
+</dict>
+</plist>

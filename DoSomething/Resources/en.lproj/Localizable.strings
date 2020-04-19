@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DoSomething
+
+  Created by Salar Soleimani on 2020-04-18.
+  Copyright © 2020 Salar Soleimani. All rights reserved.
+*/
+
+"Onboarding_Title1" = "First";
+"Onboarding_Image_Name1" = "2";
+"Onboarding_Description1" = "First";
+"Onboarding_Title2" = "2";
+"Onboarding_Image_Name2" = "1";
+"Onboarding_Description2"=  "2";
+"Onboarding_Title3" = "3";
+"Onboarding_Image_Name3" = "Onboarding3";
+"Onboarding_Description3" = "3";
